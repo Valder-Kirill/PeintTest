@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <TestValues name="TestValues">
+    <PathWinDriver>\Resources\WindowsApplicationDriver\WinAppDriver.exe</PathWinDriver>
+    <WinDriverName>WinAppDriver</WinDriverName>
+    <PathImg>\Resources\2021-05-06.png</PathImg>
+    <PaintName>mspaint</PaintName>
+  </TestValues>
+</data>
